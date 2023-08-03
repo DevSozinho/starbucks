@@ -1,4 +1,4 @@
-# Um **SIMPLES** site do starucks
+# Um **SIMPLES** site do starbucks
 
 ![Imagem do site](assets/pre.png)
 
